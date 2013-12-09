@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.nari.sun.layout"
+      android:versionCode="1"
+      android:versionName="1.0">
+    <uses-sdk android:minSdkVersion="4" />
+
+    <application android:icon="@drawable/icon" android:label="@string/layout_name">
+        <activity android:name=".LayoutTestActivity"
+                  android:label="@string/layout_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+ 		<activity android:name=".FrameLayoutActivity"
+                  android:label="@string/frame_name">
+            
+        </activity>
+        <activity android:name=".RelativeLayoutActivity"
+                  android:label="@string/relative_name">
+            
+        </activity>
+         <activity android:name=".ActivityLayoutTest"
+                  android:label="@string/activity_name">
+            
+        </activity>
+        
+         <activity android:name=".TableLayoutActivity"
+                  android:label="@string/table_name">
+            
+        </activity>
+        
+    </application>
+</manifest>

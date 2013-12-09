@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+os,sysinfo,,,"win32",1329435697213
+arch,sysinfo,,,"x86",1329435697213
+ws,sysinfo,,,"win32",1329435697213
+locale,sysinfo,,,"zh_CN",1329435697213
+processors,sysinfo,,,"4",1329435697213
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1329435697213
+java.runtime.version,sysinfo,,,"1.6.0_18-b07",1329435697213
+java.specification.name,sysinfo,,,"Java Platform API Specification",1329435697213
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1329435697213
+java.specification.version,sysinfo,,,"1.6",1329435697213
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1329435697213
+java.version,sysinfo,,,"1.6.0_18",1329435697213
+java.vm.info,sysinfo,,,"mixed mode, sharing",1329435697213
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1329435697213
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1329435697213
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1329435697213
+java.vm.specification.version,sysinfo,,,"1.0",1329435697213
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1329435697213
+java.vm.version,sysinfo,,,"16.0-b13",1329435697213
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1329435700423
+started,bundle,org.eclipse.equinox.p2.ui,1.0.100.v20090527-1812,"org.eclipse.equinox.p2.ui",1329435705530
+started,bundle,org.eclipse.equinox.p2.ui.sdk,1.0.100.v20090520-1905,"org.eclipse.equinox.p2.ui.sdk",1329435705575
+started,bundle,org.eclipse.equinox.p2.metadata,1.0.100.v20090525,"org.eclipse.equinox.p2.metadata",1329435705670
+executed,command,org.eclipse.equinox.p2.ui.sdk,1.0.100.v20090520-1905,"org.eclipse.equinox.p2.ui.sdk.update",1329435705863
+started,bundle,org.eclipse.ecf.identity,3.0.0.v20090604-1131,"org.eclipse.ecf.identity",1329435705934

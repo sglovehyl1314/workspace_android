@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1314434817328
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1314434817375
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1314434834593
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1314434836468
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1314434880281
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.help.aboutAction",1314434880296
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1314434884031
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1314434898843
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.help.aboutAction",1314434898843
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1314434899500
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1314434899515
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1314434899593
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1314435024781
+started,bundle,org.eclipse.equinox.p2.ui,1.0.100.v20090527-1812,"org.eclipse.equinox.p2.ui",1314435027046
+started,bundle,org.eclipse.equinox.p2.ui.sdk,1.0.100.v20090520-1905,"org.eclipse.equinox.p2.ui.sdk",1314435027046
+started,bundle,org.eclipse.ecf.identity,3.0.0.v20090604-1131,"org.eclipse.ecf.identity",1314435027187
+started,bundle,org.eclipse.ecf,3.0.0.v20090604-1131,"org.eclipse.ecf",1314435027203
+started,bundle,org.eclipse.ecf.provider.filetransfer.httpclient,3.0.0.v20090604-1131,"org.eclipse.ecf.provider.filetransfer.httpclient",1314435027218
+started,bundle,org.eclipse.ecf.provider.filetransfer,3.0.0.v20090604-1131,"org.eclipse.ecf.provider.filetransfer",1314435027218
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1314435027390
+error,log,,,"Unable to load the repository http://download.eclipse.org/technology/epp/packages/galileo",1314435027437
+error,log,,,"Unable to load the repository http://download.eclipse.org/tools/mylyn/update/e3.4/",1314435027437
+error,log,,,"Unable to load the repository http://download.eclipse.org/eclipse/updates/3.5",1314435027453
+error,log,,,"Unable to load the repository http://download.eclipse.org/releases/galileo",1314435027453
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1314435029062

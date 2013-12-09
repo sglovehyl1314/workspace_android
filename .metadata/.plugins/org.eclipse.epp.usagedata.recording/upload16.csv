@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+os,sysinfo,,,"win32",1314435398296
+arch,sysinfo,,,"x86",1314435398296
+ws,sysinfo,,,"win32",1314435398296
+locale,sysinfo,,,"zh_CN",1314435398296
+processors,sysinfo,,,"2",1314435398296
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1314435398296
+java.runtime.version,sysinfo,,,"1.6.0_18-b07",1314435398296
+java.specification.name,sysinfo,,,"Java Platform API Specification",1314435398296
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1314435398296
+java.specification.version,sysinfo,,,"1.6",1314435398296
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1314435398296
+java.version,sysinfo,,,"1.6.0_18",1314435398296
+java.vm.info,sysinfo,,,"mixed mode, sharing",1314435398296
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1314435398296
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1314435398296
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1314435398296
+java.vm.specification.version,sysinfo,,,"1.0",1314435398296
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1314435398296
+java.vm.version,sysinfo,,,"16.0-b13",1314435398296
+started,bundle,com.android.ide.eclipse.ddms,0.9.3.v200909031112-12945,"com.android.ide.eclipse.ddms",1314435400890
+started,bundle,com.android.ide.eclipse.adt,0.9.3.v200909031112-12945,"com.android.ide.eclipse.adt",1314435401218
+started,bundle,org.eclipse.core.filesystem,1.2.0.v20090507,"org.eclipse.core.filesystem",1314435401234
+started,bundle,org.eclipse.ltk.core.refactoring,3.5.0.v20090513-2000,"org.eclipse.ltk.core.refactoring",1314435401250
+started,bundle,org.eclipse.ltk.ui.refactoring,3.4.100.v20090604,"org.eclipse.ltk.ui.refactoring",1314435401250
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1314435401265

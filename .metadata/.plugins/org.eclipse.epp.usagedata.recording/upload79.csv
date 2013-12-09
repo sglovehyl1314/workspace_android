@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.vm.specification.version,sysinfo,,,"1.0",1314720827125
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1314720827125
+java.vm.version,sysinfo,,,"16.0-b13",1314720827125
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1314720832921
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1314720852656
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1314720853453
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1314720856156
+started,bundle,org.eclipse.equinox.p2.ui,1.0.100.v20090527-1812,"org.eclipse.equinox.p2.ui",1314720860609
+started,bundle,org.eclipse.equinox.p2.ui.sdk,1.0.100.v20090520-1905,"org.eclipse.equinox.p2.ui.sdk",1314720860609
+started,bundle,org.eclipse.equinox.p2.metadata,1.0.100.v20090525,"org.eclipse.equinox.p2.metadata",1314720860703
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1314720861203
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1314720862671
+started,bundle,org.eclipse.equinox.p2.extensionlocation,1.0.100.v20090520-1905,"org.eclipse.equinox.p2.extensionlocation",1314720863390
+started,bundle,org.eclipse.equinox.p2.artifact.repository,1.0.100.v20090527-1812,"org.eclipse.equinox.p2.artifact.repository",1314720868468
+started,bundle,org.eclipse.equinox.p2.updatesite,1.0.100.v20090525,"org.eclipse.equinox.p2.updatesite",1314720870171
+started,bundle,org.eclipse.equinox.p2.publisher,1.0.0.v20090527-1812,"org.eclipse.equinox.p2.publisher",1314720870187
+started,bundle,org.eclipse.equinox.p2.touchpoint.eclipse,1.0.100.v20090611-1224,"org.eclipse.equinox.p2.touchpoint.eclipse",1314720910937
+started,bundle,org.eclipse.equinox.p2.touchpoint.natives,1.0.100.v20090520-1905,"org.eclipse.equinox.p2.touchpoint.natives",1314720913265
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1314721024093
+executed,command,org.eclipse.equinox.p2.ui.sdk,1.0.100.v20090520-1905,"org.eclipse.equinox.p2.ui.sdk.install",1314721024156
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1314721024468
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1314722258250
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1314722260375
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1314722261484
+closed,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1314722262031

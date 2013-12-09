@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1314442112890
+activated,view,com.android.ide.eclipse.ddms,0.9.3.v200909031112-12945,"com.android.ide.eclipse.ddms.views.LogCatView",1314442113281
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1314442115562
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1314442124765
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1314442126406
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1314442131171
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1314442159562
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1314442160171
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1314442164500
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.newWizard",1314442164531
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.refresh",1314442167468
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1314442170734
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1314442172265
+executed,command,org.eclipse.ui.ide,3.5.0.I20090525-2000,"org.eclipse.ui.project.cleanAction",1314442172265
+error,log,,,"Internal Error",1314442172296
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1314442177328
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1314442189234
+opened,editor,com.android.ide.eclipse.adt,0.9.3.v200909031112-12945,"com.android.ide.eclipse.editors.layout.LayoutEditor",1314442196203
+activated,editor,com.android.ide.eclipse.adt,0.9.3.v200909031112-12945,"com.android.ide.eclipse.editors.layout.LayoutEditor",1314442196343
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1314442199343
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1314442271031
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1314442272515
+opened,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1314442272703
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1314442272859
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1314442274484

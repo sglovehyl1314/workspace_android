@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1314440030140
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1314440030234
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1314440183281
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1314440184468
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1314440190656
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1314440279609
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1314440280296
+error,log,,,"Internal Error",1314440282765
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1314440282812
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.newWizard",1314440282859
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1314440287296
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1314440289843
+executed,command,org.eclipse.ui.ide,3.5.0.I20090525-2000,"org.eclipse.ui.project.cleanAction",1314440289875
+error,log,,,"Internal Error",1314440289875
+opened,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1314440300062
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1314440300421
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1314440302531
+opened,editor,com.android.ide.eclipse.adt,0.9.3.v200909031112-12945,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1314440303484
+activated,editor,com.android.ide.eclipse.adt,0.9.3.v200909031112-12945,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1314440303625
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1314440310531
+opened,editor,com.android.ide.eclipse.adt,0.9.3.v200909031112-12945,"com.android.ide.eclipse.editors.resources.ResourcesEditor",1314440312296
+activated,editor,com.android.ide.eclipse.adt,0.9.3.v200909031112-12945,"com.android.ide.eclipse.editors.resources.ResourcesEditor",1314440312453
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1314440324390
+opened,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1314440326562
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1314440326890

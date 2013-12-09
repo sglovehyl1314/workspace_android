@@ -1,0 +1,123 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.ltk.ui.refactoring,3.4.100.v20090604,"org.eclipse.ltk.ui.refactoring",1317832997484
+started,bundle,org.eclipse.mylyn.commons.net,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.commons.net",1317832997484
+started,bundle,org.eclipse.search,3.5.0.v20090526-2000,"org.eclipse.search",1317832997500
+started,bundle,org.eclipse.team.core,3.5.0.I20090527-0620,"org.eclipse.team.core",1317832997531
+started,bundle,org.eclipse.team.cvs.core,3.3.200.I20090430-0408,"org.eclipse.team.cvs.core",1317832997546
+started,bundle,org.eclipse.team.ui,3.5.0.I20090430-0408,"org.eclipse.team.ui",1317832997578
+started,bundle,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui",1317832997578
+started,bundle,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console",1317832997593
+started,bundle,org.eclipse.ui.editors,3.5.0.v20090527-2000,"org.eclipse.ui.editors",1317832997593
+started,bundle,org.eclipse.ui.forms,3.4.0.v20090526,"org.eclipse.ui.forms",1317832997625
+started,bundle,org.eclipse.ui.ide,3.5.0.I20090525-2000,"org.eclipse.ui.ide",1317832997671
+started,bundle,org.eclipse.ui.net,1.2.0.I20090430-0408,"org.eclipse.ui.net",1317832997687
+started,bundle,org.eclipse.ui.views,3.4.0.I20090525-2000,"org.eclipse.ui.views",1317832997703
+started,bundle,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"org.eclipse.ui.workbench",1317832997765
+started,bundle,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.workbench.texteditor",1317832997812
+started,bundle,org.eclipse.update.configurator,3.3.0.v20090312,"org.eclipse.update.configurator",1317832997828
+started,bundle,org.eclipse.update.core,3.2.300.v20090525,"org.eclipse.update.core",1317832997890
+started,bundle,org.eclipse.update.scheduler,3.2.200.v20081127,"org.eclipse.update.scheduler",1317832997921
+started,bundle,com.android.ide.eclipse.adt,12.0.0.v201106281929-138431,"com.android.ide.eclipse.adt",1317832997921
+started,bundle,com.android.ide.eclipse.ddms,12.0.0.v201106281929-138431,"com.android.ide.eclipse.ddms",1317832997921
+started,bundle,org.eclipse.epp.usagedata.gathering,1.1.1.R201001291118,"org.eclipse.epp.usagedata.gathering",1317832997937
+started,bundle,org.eclipse.epp.usagedata.recording,1.1.1.R201001291118,"org.eclipse.epp.usagedata.recording",1317832997968
+started,bundle,org.eclipse.jdt.apt.core,3.3.201.R35x_v20090818-0235,"org.eclipse.jdt.apt.core",1317832997984
+started,bundle,org.eclipse.jdt.apt.pluggable.core,1.0.201.R35x_v20090818-0225,"org.eclipse.jdt.apt.pluggable.core",1317832998000
+started,bundle,org.eclipse.jdt.core,3.5.1.v_972_R35x,"org.eclipse.jdt.core",1317832998015
+started,bundle,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui",1317832998015
+started,bundle,org.eclipse.mylyn.bugzilla.core,3.2.3.v20100217-0100-e3x,"org.eclipse.mylyn.bugzilla.core",1317832998062
+started,bundle,org.eclipse.mylyn.bugzilla.ui,3.2.3.v20100217-0100-e3x,"org.eclipse.mylyn.bugzilla.ui",1317832998078
+started,bundle,org.eclipse.mylyn.commons.ui,3.2.3.v20100217-0100-e3x,"org.eclipse.mylyn.commons.ui",1317832998109
+started,bundle,org.eclipse.mylyn.context.core,3.2.3.v20100217-0100-e3x,"org.eclipse.mylyn.context.core",1317832998125
+started,bundle,org.eclipse.mylyn.context.ui,3.2.3.v20100217-0100-e3x,"org.eclipse.mylyn.context.ui",1317832998156
+started,bundle,org.eclipse.mylyn.monitor.ui,3.2.3.v20100217-0100-e3x,"org.eclipse.mylyn.monitor.ui",1317832998171
+started,bundle,org.eclipse.mylyn.tasks.ui,3.2.3.v20100217-0100-e3x,"org.eclipse.mylyn.tasks.ui",1317832998187
+started,bundle,org.eclipse.mylyn.team.ui,3.2.3.v20100217-0100-e3x,"org.eclipse.mylyn.team.ui",1317832998218
+started,bundle,org.eclipse.team.cvs.ui,3.3.202.r35x_20090930-0800,"org.eclipse.team.cvs.ui",1317832998250
+started,bundle,org.eclipse.wst.sse.core,1.1.402.v201001251516,"org.eclipse.wst.sse.core",1317832998265
+os,sysinfo,,,"win32",1317832998265
+arch,sysinfo,,,"x86",1317832998265
+ws,sysinfo,,,"win32",1317832998265
+locale,sysinfo,,,"zh_CN",1317832998265
+processors,sysinfo,,,"2",1317832998265
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1317832998265
+java.runtime.version,sysinfo,,,"1.6.0_18-b07",1317832998265
+java.specification.name,sysinfo,,,"Java Platform API Specification",1317832998265
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1317832998265
+java.specification.version,sysinfo,,,"1.6",1317832998265
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1317832998265
+java.version,sysinfo,,,"1.6.0_18",1317832998265
+java.vm.info,sysinfo,,,"mixed mode, sharing",1317832998265
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1317832998265
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1317832998265
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1317832998265
+java.vm.specification.version,sysinfo,,,"1.0",1317832998265
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1317832998265
+java.vm.version,sysinfo,,,"16.0-b13",1317832998265
+started,bundle,org.eclipse.epp.usagedata.ui,1.1.1.R201001291118,"org.eclipse.epp.usagedata.ui",1317832999593
+started,bundle,com.android.ide.eclipse.traceview,12.0.0.v201106281929-138431,"com.android.ide.eclipse.traceview",1317833000687
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1317833008125
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1317833009906
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1317833010015
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1317833015218
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1317833018953
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1317833022031
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.import",1317833022062
+activated,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.PackageExplorer",1317833026875
+started,bundle,org.eclipse.compare,3.5.0.I20090514-0808,"org.eclipse.compare",1317833040468
+started,bundle,org.eclipse.debug.ui,3.5.0.v20090603,"org.eclipse.debug.ui",1317833041187
+started,bundle,org.eclipse.jdt.junit,3.5.1.r351_v20090708-0800,"org.eclipse.jdt.junit",1317833041359
+started,bundle,org.eclipse.jdt.debug,3.5.0.v20090526,"org.eclipse.jdt.debug",1317833042093
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1317833043296
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1317833045593
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.properties",1317833045625
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1317833051453
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1317833056765
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1317833059750
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1317833070406
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.import",1317833070453
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1317833078812
+error,log,,,"Unable to read E:\\android-sdk_r12-windows\\android-sdk-windows\\AndroidManifest.xml: java.io.FileNotFoundException: E:\\android-sdk_r12-windows\\android-sdk-windows\\AndroidManifest.xml (系统找不到指定的文件。)",1317833087281
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1317833087281
+error,log,,,"Unable to read E:\\android-sdk_r12-windows\\android-sdk-windows\\AndroidManifest.xml: java.io.FileNotFoundException: E:\\android-sdk_r12-windows\\android-sdk-windows\\AndroidManifest.xml (系统找不到指定的文件。)",1317833087296
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1317833120281
+activated,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.PackageExplorer",1317833132812
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.refresh",1317833146281
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1317833166937
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1317833178171
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1317833179078
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1317833186437
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1317833195265
+started,bundle,org.eclipse.jdt.debug.ui,3.4.1.v20090811_r351,"org.eclipse.jdt.debug.ui",1317833200484
+started,bundle,org.eclipse.ant.ui,3.4.1.v20090901_r351,"org.eclipse.ant.ui",1317833200562
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1317833201781
+executed,command,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.edit.text.java.rename.element",1317833201781
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.refresh",1317833205093
+executed,command,,,"com.android.ide.eclipse.adt.debug.launching.LaunchShortcut.run",1317833212500
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1317833221984
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1317833249921
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1317833249937
+opened,view,com.android.ide.eclipse.ddms,12.0.0.v201106281929-138431,"com.android.ide.eclipse.ddms.views.LogCatView",1317833251500
+activated,view,com.android.ide.eclipse.ddms,12.0.0.v201106281929-138431,"com.android.ide.eclipse.ddms.views.LogCatView",1317833251515
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1317833252593
+activated,view,com.android.ide.eclipse.ddms,12.0.0.v201106281929-138431,"com.android.ide.eclipse.ddms.views.LogCatView",1317833255859
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1317833257500
+activated,view,com.android.ide.eclipse.ddms,12.0.0.v201106281929-138431,"com.android.ide.eclipse.ddms.views.LogCatView",1317833262296
+error,log,,,"No command output when running: 'am start -n cn.m15.xys/cn.m15.xys.startActivity -a android.intent.action.MAIN -c android.intent.category.LAUNCHER' on device emulator-5554",1317833269734
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1317833305828
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1317833451531
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1317833452406
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1317833452406
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1317833452484
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1317833791734
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1317833792375
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1317833793515
+closed,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1317833793843
+stopped,bundle,org.eclipse.compare.win32,1.0.0.I20090430-0408,"org.eclipse.compare.win32",1317833795406
+stopped,bundle,org.eclipse.wst.dtd.ui,1.0.400.v200904300717,"org.eclipse.wst.dtd.ui",1317833795484
+stopped,bundle,com.android.ide.eclipse.adt,12.0.0.v201106281929-138431,"com.android.ide.eclipse.adt",1317833795484
+stopped,bundle,org.eclipse.wst.xsd.ui,1.2.204.v200909021537,"org.eclipse.wst.xsd.ui",1317833795640
+stopped,bundle,org.eclipse.wst.xml.ui,1.1.2.v201001222130,"org.eclipse.wst.xml.ui",1317833795640
+stopped,bundle,org.eclipse.wst.common.ui,1.1.402.v200901262305,"org.eclipse.wst.common.ui",1317833795781
+stopped,bundle,org.eclipse.mylyn.ide.ant,3.2.3.v20100217-0100-e3x,"org.eclipse.mylyn.ide.ant",1317833795859
+stopped,bundle,org.eclipse.ant.ui,3.4.1.v20090901_r351,"org.eclipse.ant.ui",1317833795859

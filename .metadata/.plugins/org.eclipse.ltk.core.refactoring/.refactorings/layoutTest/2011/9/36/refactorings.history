@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;layoutTest/res/layout/activity_frameLayout.xml&apos; to &apos;activity_frame_layout.xml&apos;" description="Rename resource &apos;activity_frameLayout.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="res/layout/activity_frameLayout.xml" name="activity_frame_layout.xml" stamp="1315020038046" updateReferences="true"/>
+</session>

@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Operation details",1328365195804
+error,log,,,"Operation details",1328365195806
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1328365201160
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1328365267490
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1328365294430
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1328365301637
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1328365309487
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1328365319617
+error,log,,,"Transfer Exception",1328365329046
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1328365338004
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1328365345190
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1328365365575
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1328365384786
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1328365392933
+error,log,,,"Operation details",1328365394664
+started,bundle,org.eclipse.equinox.p2.touchpoint.natives,1.0.100.v20090520-1905,"org.eclipse.equinox.p2.touchpoint.natives",1328365461427
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1328365482234
+executed,command,org.eclipse.equinox.p2.ui.sdk,1.0.100.v20090520-1905,"org.eclipse.equinox.p2.ui.sdk.install",1328365482243
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1328365482524
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1328365888395
+installed,bundle,javax.activation,1.1.0.v200906290531,"javax.activation",1328365888411
+installed,bundle,javax.transaction,1.1.1.v201002111330,"javax.transaction",1328365888413
+installed,bundle,org.apache.commons.codec,1.3.0.v20100106-1700,"org.apache.commons.codec",1328365888414
+installed,bundle,org.eclipse.ant.ui,3.4.1.v20090901_r351,"org.eclipse.ant.ui",1328365888446
+installed,bundle,org.eclipse.cvs,1.0.400.v201002111343,"org.eclipse.cvs",1328365888446

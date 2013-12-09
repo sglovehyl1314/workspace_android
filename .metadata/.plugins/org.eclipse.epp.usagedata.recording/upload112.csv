@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.equinox.p2.ui,1.0.100.v20090527-1812,"org.eclipse.equinox.p2.ui",1328364566661
+started,bundle,org.eclipse.equinox.p2.ui.sdk,1.0.100.v20090520-1905,"org.eclipse.equinox.p2.ui.sdk",1328364566677
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1328364566961
+started,bundle,org.eclipse.equinox.p2.updatesite,1.0.100.v20090525,"org.eclipse.equinox.p2.updatesite",1328364621776
+error,log,,,"Unable to load the repository file:/E:/nariwork/C常用软件/Subversive-incubation-0.7.8.I20090506-1500/",1328364621859
+error,log,,,"Unable to load the repository jar:file:/E:/nariwork/C常用软件/Subversive-incubation-0.7.8.I20090506-1500/Subversive-incubation-0.7.8.I20090506-1500.zip!/",1328364633037
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1328364693622
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1328364715877
+executed,command,org.eclipse.equinox.p2.ui.sdk,1.0.100.v20090520-1905,"org.eclipse.equinox.p2.ui.sdk.install",1328364715884
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1328364720896
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1328364737055
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1328364743563
+error,log,,,"Unable to load the repository jar:file:/E:/nariwork/C常用软件/Subversive-incubation-0.7.8.I20090506-1500/Subversive-connectors-2.2.0.I20090515-1900.zip!/",1328364789922
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1328364790385
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1328364792716
+error,log,,,"Operation details",1328364966941
+error,log,,,"Operation details",1328364966942
+error,log,,,"Operation details",1328364966945
+error,log,,,"Operation details",1328364966966
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1328365030785
+error,log,,,"Operation details",1328365035683
+error,log,,,"Operation details",1328365064730
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1328365098664
+error,log,,,"Operation details",1328365171677
+error,log,,,"Operation details",1328365171680

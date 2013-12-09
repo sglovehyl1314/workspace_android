@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"org.eclipse.ui.workbench",1328403257810
+started,bundle,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.workbench.texteditor",1328403257810
+started,bundle,org.eclipse.update.configurator,3.3.0.v20090312,"org.eclipse.update.configurator",1328403257811
+started,bundle,org.eclipse.update.core,3.2.300.v20090525,"org.eclipse.update.core",1328403257811
+started,bundle,org.eclipse.update.scheduler,3.2.200.v20081127,"org.eclipse.update.scheduler",1328403257811
+started,bundle,com.android.ide.eclipse.adt,0.9.3.v200909031112-12945,"com.android.ide.eclipse.adt",1328403257811
+started,bundle,com.android.ide.eclipse.ddms,0.9.3.v200909031112-12945,"com.android.ide.eclipse.ddms",1328403257811
+os,sysinfo,,,"win32",1328403257813
+arch,sysinfo,,,"x86",1328403257813
+ws,sysinfo,,,"win32",1328403257813
+locale,sysinfo,,,"zh_CN",1328403257813
+processors,sysinfo,,,"4",1328403257813
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1328403257813
+java.runtime.version,sysinfo,,,"1.6.0_18-b07",1328403257813
+java.specification.name,sysinfo,,,"Java Platform API Specification",1328403257813
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1328403257813
+java.specification.version,sysinfo,,,"1.6",1328403257813
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1328403257813
+java.version,sysinfo,,,"1.6.0_18",1328403257813
+java.vm.info,sysinfo,,,"mixed mode, sharing",1328403257813
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1328403257813
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1328403257813
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1328403257813
+java.vm.specification.version,sysinfo,,,"1.0",1328403257813
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1328403257814
